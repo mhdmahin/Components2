@@ -1,0 +1,10 @@
+.box2{
+	width: 200px;
+	height: 200px;
+	background-color: gray;
+}
+.btn_custom{
+	background-color: black;
+	color: white;
+	border: 5px solid #FA2FB5;
+}
